@@ -1,8 +1,8 @@
-\# Loan Approval Prediction using Machine Learning
+# Loan Approval Prediction using Machine Learning
 
 
 
-\## 📌 Project Overview
+\## Project Overview
 
 This project focuses on building an end-to-end machine learning pipeline to predict whether a loan application should be approved based on applicant financial and personal information.  
 
@@ -14,7 +14,7 @@ The objective is to support better decision-making in loan approval systems by r
 
 
 
-\## 📊 Dataset
+\## Dataset
 
 \- Source: Publicly available Loan Prediction dataset
 
@@ -28,7 +28,7 @@ The objective is to support better decision-making in loan approval systems by r
 
 
 
-\## ⚙️ Project Workflow
+\##  Project Workflow
 
 1\. Data loading and inspection
 
@@ -48,7 +48,7 @@ The objective is to support better decision-making in loan approval systems by r
 
 
 
-\## 🤖 Models Used
+\##  Models Used
 
 \- \*\*Logistic Regression\*\* (baseline model)
 
@@ -60,7 +60,7 @@ The objective is to support better decision-making in loan approval systems by r
 
 
 
-\## 📈 Evaluation Metrics
+\##  Evaluation Metrics
 
 \- Accuracy
 
@@ -72,17 +72,12 @@ The objective is to support better decision-making in loan approval systems by r
 
 
 
-\## 🧪 Results
+\##  Results
 
 
 
-| Model | Accuracy | Recall |
-
-|------|---------|--------|
-
-| Logistic Regression | ~82% | ~66% |
-
-| Random Forest | ~97% | ~96% |
+MODELS : 1.LOGISTIC REGRESSION - 1.ACCURACY - ~82% | 2.RECALL - ~66%
+         2.RANDOM FOREST - 1.ACCURACY - ~97% | 2.RECALL - ~96%
 
 
 
