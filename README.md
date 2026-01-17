@@ -89,7 +89,7 @@ Random Forest significantly outperformed Logistic Regression by capturing non-li
 
 
 
-\## ✅ Final Conclusion
+\## Final Conclusion
 
 Although Logistic Regression provided a good baseline, Random Forest was selected as the final model due to its superior recall and accuracy.  
 
@@ -101,7 +101,7 @@ This makes it more suitable for real-world loan decision systems where missing i
 
 
 
-\## 🛠️ Tools \& Technologies
+\##  Tools \& Technologies
 
 \- Python
 
@@ -119,7 +119,7 @@ This makes it more suitable for real-world loan decision systems where missing i
 
 
 
-\## 🚀 Future Improvements
+\##  Future Improvements
 
 \- Cross-validation for better generalization
 
